@@ -1,0 +1,21 @@
+# PlatformIO
+.pio/
+
+# IDE
+.vscode/
+
+# Secrets
+ssid.h
+src/ssid.h
+.env
+.env.*
+
+# Logs
+*.log
+
+# Local backup / experimental data
+bk/
+
+# OS junk
+.DS_Store
+Thumbs.db

@@ -1,0 +1,3 @@
+Example停止results.value
+9999999999
+uint16_t rawData[643] = {999, 111,  999, 111...};  // UNKNOWN 999999

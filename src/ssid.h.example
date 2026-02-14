@@ -1,0 +1,4 @@
+#pragma once
+
+#define LOCALSSID "YOUR_SSID"
+#define PASS      "YOUR_PASSWORD"
