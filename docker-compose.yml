@@ -1,0 +1,6 @@
+services:
+  esp-build:
+    build: .
+    volumes:
+      - .:/workspace
+    working_dir: /workspace
